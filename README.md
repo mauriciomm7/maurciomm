@@ -5,7 +5,7 @@ However I am also a fervent advocate for using innovative data collection techno
 
 ### Stoic Life 👨‍🎓
 + **Working:** MA Thesis Project.
-+ **Reading:** *The Constitution of Algorithms Ground-Truthing, Programming, Formulating* by F Jaton.
++ **Reading:** *The Constitution of Algorithms Ground-Truthing, Programming, Formulating* by Florian Jaton.
 + **Writing:** MA Thesis Project.
 ### Stats 📊
 
