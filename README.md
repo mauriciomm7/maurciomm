@@ -6,7 +6,8 @@ Better yet, I am  fervent advocate for using innovative data collection technolo
 ### Stoic Life 👨‍🎓
 + **Working:** Enforcing the Rule of Law in the EU & Democratic Theory
 + **Reading:** *The Constitution of Algorithms Ground-Truthing, Programming, Formulating* by Florian Jaton.
-+ **Writing:** MA Thesis Project.
++ **Writing:** Article: J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision
+Making in Democratic Societies
 ### Stats 📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomm7&theme=tokyonight)](https://github.com/mauriciomm7/github-readme-stats)
