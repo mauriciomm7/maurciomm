@@ -4,7 +4,7 @@ I am an unorthodox PoliSci researcher with a fondness for data science and a pas
 Better yet, I am  fervent advocate for using innovative data collection technologies for improving research and having a greater impact. Besides my research and academic work, I'm also a habitual commentator on international political affairs for [the Loop: ECPR](https://theloop.ecpr.eu/) and [European Waves.](https://www.europeanwaves.com/)
 
 ### Stoic Life 👨‍🎓
-+ **Working:** MA Thesis Project.
++ **Working:** Enforcing the Rule of Law in the EU & Democratic Theory
 + **Reading:** *The Constitution of Algorithms Ground-Truthing, Programming, Formulating* by Florian Jaton.
 + **Writing:** MA Thesis Project.
 ### Stats 📊
