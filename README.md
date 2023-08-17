@@ -5,7 +5,7 @@ Better yet, I am  fervent advocate for using innovative data collection technolo
 
 ### Stoic Life 👨‍🎓
 + **Working:** Enforcing the Rule of Law in the EU & Democratic Theory
-+ **Reading:** *The Constitution of Algorithms Ground-Truthing, Programming, Formulating* by Florian Jaton.
++ **Reading:** *The Book of Why: The New Science of Cause and Effect* by Judea Pearl
 + **Writing:** *Article:* "J.S. Mill’s Hoop Test: Compatibility of Machine Learning Models with Public Decision
 Making in Democratic Societies"
 ### Stats 📊
