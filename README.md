@@ -9,4 +9,4 @@ Better yet, I am  fervent advocate for using innovative data collection technolo
 + **Published:** *Article:* "Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution" co-author with Tom Pavone.
 ### Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomm7&theme=tokyonight)](https://github.com/mauriciomm7/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomm7&theme=highcontrast)](https://github.com/mauriciomm7/github-readme-stats)
