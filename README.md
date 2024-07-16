@@ -6,7 +6,12 @@ Better yet, I am  fervent advocate for using innovative data collection technolo
 ### Stoic Life 👨‍🎓
 + **Working:** Enforcing the Rule of Law in the EU & Causal Inference Research Methodology
 + **Reading:** *Power, Sex, Suicide: Mitochondria and the Meaning of Life* by Nick Lane
-+ **Published:** *Article:* "Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution" co-author with Tom Pavone.
++ **Published:** *Article:* "Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution" co-author with Tom Pavone.[Read Here](https://doi.org/10.1080/13501763.2024.2336125) 
 ### Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomm7&theme=tokyonight)](https://github.com/mauriciomm7/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciomm7&theme=highcontrast&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciomm7&layout=compact&card_width=320" />
+</a>
